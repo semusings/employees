@@ -1,5 +1,5 @@
-= Factory Parent Example
-:repo: factory-parent-example
+= Employees
+:repo: employees
 :github: https://github.com/BhuwanUpadhyay/{repo}
 :githubmaster: {github}/tree/master
 :revnumber: {project-version}
